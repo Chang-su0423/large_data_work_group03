@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="insurance" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="insurance" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.5 (sftp://juelo-zsw@172.18.232.211:22/home/juelo-zsw/.virtualenvs/large_data_work_group03/bin/python)" project-jdk-type="Python SDK" />
 </project>
